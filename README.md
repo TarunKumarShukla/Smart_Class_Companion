@@ -115,7 +115,7 @@ GitHub: https://github.com/TarunKumarShukla
 
 This project is developed for educational and academic purposes.
 
-Screenshots Of My Projects
+📸 Application Screenshots
 
 <img width="1907" height="816" alt="Screenshot 2025-09-26 143216" src="https://github.com/user-attachments/assets/b43be09c-4ba7-49ea-8faf-0d1461c09145" />
 <img width="1908" height="780" alt="Screenshot 2025-09-26 143232" src="https://github.com/user-attachments/assets/ca756ac3-6379-4c21-a913-3bdf83d469f2" />
