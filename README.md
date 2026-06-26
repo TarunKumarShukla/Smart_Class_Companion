@@ -117,11 +117,11 @@ This project is developed for educational and academic purposes.
 
 Screenshots Of My Projects
 
-<img width="1906" height="863" alt="Screenshot 2025-09-26 143509" src="https://github.com/user-attachments/assets/d6413ead-1072-4729-a565-8e33afd22f78" />
-<img width="1906" height="852" alt="Screenshot 2025-09-26 143436" src="https://github.com/user-attachments/assets/38a91d65-95d7-418e-9744-d035d5fc3abb" />
-<img width="1908" height="903" alt="Screenshot 2025-09-26 143408" src="https://github.com/user-attachments/assets/9f7bfc3e-93b7-4d51-8027-a895e43a613c" />
-<img width="1906" height="853" alt="Screenshot 2025-09-26 143348" src="https://github.com/user-attachments/assets/d619bc8f-9e0d-4b6f-9bac-7fee3945d3b2" />
-<img width="1908" height="854" alt="Screenshot 2025-09-26 143334" src="https://github.com/user-attachments/assets/e354806d-e725-48e4-b44b-bf0eef2d41d6" />
-<img width="1908" height="856" alt="Screenshot 2025-09-26 143312" src="https://github.com/user-attachments/assets/98608720-2016-423b-9c56-3b7978dc791d" />
-<img width="1908" height="780" alt="Screenshot 2025-09-26 143232" src="https://github.com/user-attachments/assets/612b385b-d8fd-4636-be43-b0c3e825b592" />
-<img width="1907" height="816" alt="Screenshot 2025-09-26 143216" src="https://github.com/user-attachments/assets/86d866e7-1179-4ee6-b8e4-fce32c41a018" />
+<img width="1907" height="816" alt="Screenshot 2025-09-26 143216" src="https://github.com/user-attachments/assets/b43be09c-4ba7-49ea-8faf-0d1461c09145" />
+<img width="1908" height="780" alt="Screenshot 2025-09-26 143232" src="https://github.com/user-attachments/assets/ca756ac3-6379-4c21-a913-3bdf83d469f2" />
+<img width="1908" height="856" alt="Screenshot 2025-09-26 143312" src="https://github.com/user-attachments/assets/5273d871-7dfc-422d-970b-be988c535b82" />
+<img width="1906" height="863" alt="Screenshot 2025-09-26 143509" src="https://github.com/user-attachments/assets/4487f8e4-295e-4d81-a74b-ce14c5563ffc" />
+<img width="1908" height="854" alt="Screenshot 2025-09-26 143334" src="https://github.com/user-attachments/assets/6d6ae063-4808-4785-8d56-66370b5ef9a8" />
+<img width="1906" height="853" alt="Screenshot 2025-09-26 143348" src="https://github.com/user-attachments/assets/c9ea0081-376a-44dc-882a-519299a7b6fe" />
+<img width="1908" height="903" alt="Screenshot 2025-09-26 143408" src="https://github.com/user-attachments/assets/926ff4e5-378c-4829-8fbe-df6c227fe70d" />
+<img width="1906" height="852" alt="Screenshot 2025-09-26 143436" src="https://github.com/user-attachments/assets/a56579b4-bbd1-48cc-ab9a-cfbd8a166db5" />
